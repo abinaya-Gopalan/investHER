@@ -3,8 +3,23 @@
   "version": "1.0.0",
   "private": true,
   "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
     "parcel-bundler": "^1.6.1"
   },
-  "scripts": {},
-  "devDependencies": {}
+  "scripts": {
+    "start": "node server.js"
+  },
+  "description": "web appln",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abinaya-Gopalan/investHER.git"
+  },
+  "author": "abinaya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abinaya-Gopalan/investHER/issues"
+  },
+  "homepage": "https://github.com/abinaya-Gopalan/investHER#readme"
 }
